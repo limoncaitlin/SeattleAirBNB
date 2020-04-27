@@ -1,4 +1,4 @@
-# SeattleAirBNB
+# Seattle AirBNB
 
 # Installations:
 This project was done in the Anaconda environment with python 3.6. The following packages were used:
