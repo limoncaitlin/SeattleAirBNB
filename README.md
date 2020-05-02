@@ -21,7 +21,7 @@ I completed this project as a requirement for the Udacity Data Scientist nanodeg
 The SeattleData.ipynb file contains the jupyter notebook used to perform this analysis and modeling. The data files used are calendar.csv, listings.csv, and reviews.csv. The file names are pretty self-explanatory. The calendar csv contains information on booking dates and availability. The listings csv contains all of the listings in Seattle with information about each, like number of bedrooms, neighborhood, and amenities. The reviews csv contains all of the review given by customers that visited each listing. These files are publicly available on Kaggle.
 
 # Results
-The results of this project are available at the medium post I authored. 
+The results of this project are available at the [medium post I authored](https://medium.com/@caitlin.limonciello/data-driven-airbnb-choices-in-seattle-a3679884d80e?sk=fcdd69afd4c54450ceda42f10bf97bfd). 
 
 # Acknowledgements
-The dataset was obtained from Kaggle. (kaggle.com/airbnb/seattle)
+The dataset was obtained from [Kaggle](kaggle.com/airbnb/seattle).
